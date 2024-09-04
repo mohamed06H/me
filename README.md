@@ -65,7 +65,8 @@
 
 ## Me contacter
 <a href="https://www.instagram.com/moumouh06/" target="_blank">
-<img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_color=green&up_message=GO&url=https%3A%2F%2Fadam-net.fr%2F">
+<a href="mailto:m.hamiche99@gmail.com">
+<img alt="Email" src="https://img.shields.io/website?style=for-the-badge&up_color=green&up_message=GO&url=https%3A%2F%2Fadam-net.fr%2F">
 </a> 
 </div>  
 
